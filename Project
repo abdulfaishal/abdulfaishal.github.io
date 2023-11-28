@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>KERETA API PROJECT</title>
+        <link rel="stylesheet" href="Style.css" />
+    </head>
+    <body>
+        <div class="container">
+        <!-- NAVIGATION BAR  -->
+        <div class="container-navbar">
+            <UL class="ul-navbar">
+                <li class="li-navbar">
+                    <a href="#" class="a-navbar">BERANDA</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="about.html" class="a-navbar">SEJARAH </a>
+                </li>
+                <li class="li-navbar">
+                    <a href="contact.html" class="a-navbar">KONTAK     </a>
+                </li>
+            </UL>
+        </div>          
+        <!-- NAVIGATION BAR END -->
+
+        <!-- CONTENT 1 -->
+        <div class="container-content">
+            <a href="https://kai.id/" class="a-content"> 
+            <img src="kai.jpg" class="img-content"/>
+            <p>KLIK</p>
+                <p>UNTUK INFORMASI LEBIH LANJUT</p>
+            </a>
+        </div>
+        <!-- CONTENT 1 END -->
+
+        <!-- FOOTER -->
+        <div class="container-footer">
+            <h1 class="h1-footer">© Bdoeell, All Rights Reserved</h1>
+        </div>         
+        <!-- FOOTER END -->
+    </div>
+    </body>
+</html>
